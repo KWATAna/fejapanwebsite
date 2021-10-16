@@ -699,6 +699,7 @@ header{
         row-gap: 55px;
     }
     .top__card-pic{
+        margin: auto;
         margin-bottom: 25px;
     }
     .top__card{
